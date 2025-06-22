@@ -5,6 +5,7 @@ A two‐part MATLAB script that:
 1. **Quantifies** tissue infiltration from segmentation masks  
 2. **Generates** QC overlay images
 
+- Images were downloaded at 1000 dpi + 3Mpx from PathViewer (through Omero) - at 0.75xMag
 ---
 
 ## Part 1: Compute Metrics
